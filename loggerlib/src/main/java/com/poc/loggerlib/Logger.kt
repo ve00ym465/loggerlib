@@ -1,4 +1,4 @@
-package com.example.loggerlib
+package com.poc.loggerlib
 
 import android.util.Log
 
